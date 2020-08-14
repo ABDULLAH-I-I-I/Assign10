@@ -1,0 +1,14 @@
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+#result{
+    margin: 25px 550px;
+    border-radius: 1em;
+    height: 50px;
+    width: 100px;
+    text-decoration: solid;
+    background-color: bisque;
+}
